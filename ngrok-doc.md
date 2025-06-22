@@ -31,12 +31,12 @@ note :
 2. 8080 : sesuaikan dengan port aplikasi anda
 ```
 <p align="center">
-  <img src="ngrok-ex.png" alt="contoh" width="700" hight="150"/>
+  <img src="gambar/ngrok-ex.png" alt="contoh" width="700" hight="150"/>
 </p>
 jika pada terminal seperti gambar di atas, maka ngrok anda sudah berjalan.
 
 <p align="center">
-  <img src="ngrok-dash.png" alt="contoh" width="700" hight="150"/>
+  <img src="gambar/ngrok-dash.png" alt="contoh" width="700" hight="150"/>
 </p>
 Untuk mendapatkan domain gratis anda, maka anda harus kembali ke dalam dashboard https://ngrok.com/ seperti gambar di atas.
 
@@ -104,5 +104,5 @@ systemctl status ngrok.service
 ```
 
 <p align="center">
-  <img src="ngrok-sta.png" alt="contoh" width="700" hight="150"/>
+  <img src="gambar/ngrok-sta.png" alt="contoh" width="700" hight="150"/>
 </p>
